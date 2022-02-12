@@ -1,0 +1,25 @@
+/* For the header I want it to stand out so I'll have my favorite color as the background with a simple border around it.*/
+header {
+  text-align: center;
+  border-style: solid;
+  background-color:	#F0F8FF;
+  font-family: Didot, serif; 
+  box-sizing: border-box;
+  margin: 1px;
+  padding: 25px;
+}
+
+/* Links to hover blue and turn purple once visited. Will turn green when they are active*/
+}
+  a:link    {color: black;}
+  a:visited {color: purple;}
+  a:hover   {color: blue;}
+  a:active  {color: green;}
+
+/* Footer with my name in white with a black border */
+Footer {
+  text-align: center;
+  border-style: solid;
+  color: white; 
+  background-color: black;
+}
